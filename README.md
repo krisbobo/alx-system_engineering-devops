@@ -1,2 +1,2 @@
-Introduction to shel scripting
+Introduction to shell scripting
 
