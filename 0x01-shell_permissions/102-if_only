@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -from=betty betty hello
+if [ -O hello]; then chown betty hello
