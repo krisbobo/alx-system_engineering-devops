@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello, World\n ls -e > 0-hello_world
+echo -e Hello, World\n
