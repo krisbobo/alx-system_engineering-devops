@@ -1,2 +1,2 @@
 #!/bin/bash
-sort --k=root /etc/passwd
+grep -i "root"  /etc/passwd
