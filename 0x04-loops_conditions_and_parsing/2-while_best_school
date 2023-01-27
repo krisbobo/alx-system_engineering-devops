@@ -3,7 +3,8 @@
 
 index=0
 
-while [ "$index" -lt 10 ]; do
+while [ "$index" -lt 10 ]
+do
   echo "Best School"
-  ((index++))
+ ((index+1))
 done
